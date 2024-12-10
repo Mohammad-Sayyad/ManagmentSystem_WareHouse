@@ -1,7 +1,5 @@
 Key OOP Concepts Used in This Project:
 
-ha ha ha i added something new here
-
 Encapsulation to protect and manage access to data.
 Inheritance for sharing common features between classes.
 Polymorphism to implement different behaviors using a common interface.
@@ -12,4 +10,4 @@ Abstract Methods to create shared structures in base classes.
 This project is a solid example of combining OOP principles and generics, showcasing their use in building real-world, scalable applications.
 GOOD LUCK Guys!
 
-this is just a test
+
