@@ -23,7 +23,7 @@ namespace WarehouseManagementSystem.src
 
             var Tshirts = new Clothing("T-Shirt", 23, "M", "Red");
             var Jeans = new Clothing("Jeans", 40, "L", "Blue");
-
+            var dress = new Clothing("GermanDress", 45,"H", "black");
 
 
             //Add Pprducts
@@ -35,6 +35,7 @@ namespace WarehouseManagementSystem.src
 
             clothingManager.AddProduct(Tshirts);
             clothingManager.AddProduct(Jeans);
+            clothingManager.AddProduct(dress);
 
             //Prints Products
             electronicsManager.DisplayProducts();
