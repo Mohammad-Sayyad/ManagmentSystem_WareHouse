@@ -2,6 +2,7 @@
 {
     public class Electronics : Product
     {
+    // just a test
         public string Brand { get; set; }
         public string Model { get; set; }
 
