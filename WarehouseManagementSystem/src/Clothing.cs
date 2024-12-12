@@ -2,6 +2,8 @@
 {
     public class Clothing : Product
     {
+    //this is clothing room 
+    
         public string Size { get; set; }
         public string Color { get; set; }
 
